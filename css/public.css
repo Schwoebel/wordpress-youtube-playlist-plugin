@@ -1,0 +1,18 @@
+/* This stylesheet is used to style the public view of the plugin. */
+
+/*----YouTube Listing by Curtis --*/
+
+.tl_youtube_single_playlist {
+	display: inline-block;
+}
+
+.tl_youtube_single_playlist li {
+	float: left;
+	margin: 10px
+}
+
+.tl_youtube_single_playlist li img {
+	height: 170px;
+	background: white;
+	padding: 10px;
+}
